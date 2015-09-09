@@ -1,0 +1,1 @@
+mkdir /Volumes/ec2;sshfs ubuntu@ec2-54-208-57-231.compute-1.amazonaws.com: /Volumes/ec2  -o IdentityFile=~/Torch/dev-gijs.pem -o volname=amazon
